@@ -1,6 +1,6 @@
 # Template on Workshop for Reproducible research at ENSGSI
 
-**Name of the student:** Add your name <br>
+**Name of the student:** Bouflet <br>
 **Date:** XX/XX/XXXX   <br>
 **Course:** Add your cursus <br>
 
